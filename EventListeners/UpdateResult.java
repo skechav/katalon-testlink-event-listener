@@ -86,7 +86,7 @@ class UpdateResults
 		{
 				
 			result = TestLinkAPIResults.TEST_PASSED;
-			notes="Executed and updated successfully from test automation server ";
+			notes="Executed and updated successfully from Katalon test automation framework ";
 			testlinkUpdate.reportResult(testProject, testPlan, testCase, build, notes, result);
 			passedTC.getAndIncrement();
 		}
