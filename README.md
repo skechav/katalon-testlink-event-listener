@@ -9,9 +9,10 @@ Prerequisites
 To use this java event listener for Katalon you need : 
 
 * Katalon Studio 
-  Installed on your local machine. Download it from the official website :
+  Installed on your local machine. Download it from the official website : https://www.katalon.com
 
 * TestLink 1.9.19 Metonic cycle 
   A fully working TestLink application running on a web server with PHP and a database (e.g. MySQL, PostgreSQL e.t.c ).
   You can find the repo here : https://github.com/TestLinkOpenSourceTRMS/testlink-code/tree/tl1.9.19.01
-* Testlink java api
+
+* Testlink java api and its' dependencies included in your Katalon Studio Project. 
